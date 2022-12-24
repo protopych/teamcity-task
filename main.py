@@ -1,7 +1,7 @@
 import random
 import time
 
-SIZE = 10000
+'SIZE = 10000
 
 
 def random_int_array():
